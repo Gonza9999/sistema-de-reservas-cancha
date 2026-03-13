@@ -125,15 +125,15 @@ npm start
 
 ## Página de reservas
 
-![Reservas](docs/reservas.png)
+![Reservas](capturas/reservas.png)
 
 ## Calendario administrativo
 
-![Calendario](docs/calendario.png)
+![Calendario](capturas/calendario.png)
 
 ## Dashboard
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](capturas/dashboard.png)
 
 # Mi rol en el proyecto
 
